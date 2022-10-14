@@ -29,7 +29,10 @@ If the SVM uses the same LDAP server for querying name-mapping or other UNIX inf
 .Related information
 
 link:../nfs-admin/ldaps-concept.adoc[LDAPS concepts]
+// 2022- october 14th --> this throws link to https://docs.netapp.com/us-en/ontap/nfs-admin/ldaps-concept.adoc which gives a 404...
+// not sure whats causing this...
 
 link:../nfs-admin/index.html[NFS management]
 
 // 2021-11-15, BURT 1402470
+
